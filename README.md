@@ -1,0 +1,1 @@
+Este repositorio incluye tres programas en Java sobre manejo de excepciones. El primero obtiene un carácter de una cadena, pero lanza una excepción si el índice es incorrecto. El segundo programa crea una excepción personalizada para cuando intentas sacar la raíz cuadrada de un número negativo. El tercero combina estos dos conceptos para manejar errores de forma más efectiva.
